@@ -2,12 +2,12 @@
 /************************************************************************
  前期处理 & 信息
 	版本：Oracle11.2.0.1.0
-	数据库名：XNH
-	口令：XNHccher2018
-	用户：NH_SC 密码：XNHccher2018
+	数据库名：***（问boss）
+	口令：***（问boss）
+	用户：***（问boss） 密码：***（问boss）
 
 	- 有时改tablespace需要主用户sys授权NH_SC user
-	用户：sys@XNH 连接 sysdba 密码：XNHccher2018
+	用户：sys@XNH 连接 sysdba 密码：***（问boss）
 	
  导出说明：
  第一步：原始压缩文件tar解压出6个dmp格式在 D:\dump
